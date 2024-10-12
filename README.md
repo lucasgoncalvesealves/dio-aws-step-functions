@@ -10,3 +10,5 @@ Por exemplo, um aplicativo de entrega de comida é composto de:
 Existe um **fluxo** entre os microsserviços, ou seja, um depende do outro.
 E como fazer um se comunicar com o outro?
 
+Para cumprir este papel, existem o **serviço de mensageria**.
+Assim que algo acontece, ele publica uma mensagem e os outros sistemas ouvem essa mensagem.
