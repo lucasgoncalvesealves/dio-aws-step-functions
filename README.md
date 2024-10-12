@@ -8,3 +8,5 @@ Por exemplo, um aplicativo de entrega de comida é composto de:
 3. Uma API de gerenciamento de estado do pedido.
 
 Existe um **fluxo** entre os microsserviços, ou seja, um depende do outro.
+E como fazer um se comunicar com o outro?
+
