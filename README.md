@@ -1,7 +1,6 @@
-# AWS Step Functions: um (não tão breve) resumo
+# AWS Step Functions: um (não tão) breve resumo
 
 Um aplicativo de smartphone pode ser um monolito (um único sistema) ou dividido em microsserviços.
-
 Por exemplo, um aplicativo de entrega de comida é composto de:
 1. Uma API de gerenciamento de usuários;
 2. Um gerenciador de notificações *push*;
@@ -18,9 +17,7 @@ As partes do serviço de mensageria são:
 - **Subscriber** (inscrito): É um sistema que está inscrito para receber mensagens do *publisher*.
 
 E é deste raciocínio que foi criado o AWS Step Functions: **para cada passo (*step*), um conjunto de funções (*functions*)**.
-
 Com uma vantagem: em vez de se usar código, utiliza-se o método clica-e-arrasta, comum em interfaces gráficas.
-
 E os sistemas são os próprios serviços da AWS.
 
 "O Step Functions é um serviço de fluxo de trabalho visual (...) para desenvolver aplicações distribuídas, automatizar processos, orquestrar microsserviços e criar pipelines de dados e machine learning (ML)."
