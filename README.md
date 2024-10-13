@@ -53,3 +53,9 @@ Para criar, executar e ver funcionar o seu fluxo de trabalho, basta clicar no bo
 Como de praxe em muitos programas ao estilo estúdio, há as opções de desfazer e refazer ações.
 Você também pode aumentar e diminuir o *zoom*, ou mesmo expor o fluxo inteiro no centro da tela.
 Também é possível fazer configurações especifícas para uma ação no menu direito do estúdio, clicando em seu "bloquinho" antes.
+
+**Após executar e estudar o seu projeto, é importantíssimo excluí-lo logo em seguida!**
+Se você deixá-lo rodando, a Amazon vai entender que você está fazendo uso comercial dele, e vai te cobrar por isso.
+Não há um preço fixo, pois você utiliza diversos serviços da AWS em seu projeto Step Functions, e cada serviço tem um preço.
+E se dentro deste fluxo você utiliza um determinado serviço *x* vezes, o preço a ser pago é o deste serviço multiplicado por *x*.
+Para auxiliar este cálculo, a própria AWS possui uma calculadora de preços, que te dá uma estimativa de quanto você vai pagar.
