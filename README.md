@@ -31,4 +31,4 @@ Benefícios do Step Functions:
 - Processar dados sob demanda;
 - Visualização da arquitetura orientada por eventos.
 
-Para acessá-lo a partir da página inicial, vá em Serviços --> Integração de Aplicativos --> Step Functions
+Para acessá-lo a partir da página inicial, vá em Serviços → Integração de Aplicativos → Step Functions
