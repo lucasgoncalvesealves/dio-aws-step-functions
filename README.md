@@ -1,6 +1,7 @@
 # AWS Step Functions: um (não tão) breve resumo
 
 Um aplicativo de smartphone pode ser um monolito (um único sistema) ou dividido em microsserviços.
+
 Por exemplo, um aplicativo de entrega de comida é composto de:
 1. Uma API de gerenciamento de usuários;
 2. Um gerenciador de notificações *push*;
