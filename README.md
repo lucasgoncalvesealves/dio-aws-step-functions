@@ -1,4 +1,4 @@
-# Criando um Assistente de Delivery com AWS Step Functions e Bedrock
+# AWS Step Functions: um (não tão breve) resumo
 
 Um aplicativo de smartphone pode ser um monolito (um único sistema) ou dividido em microsserviços.
 
@@ -56,4 +56,3 @@ Se você deixá-lo rodando, a Amazon vai entender que você está fazendo uso co
 Não há um preço fixo, pois você utiliza diversos serviços da AWS em seu projeto Step Functions, e cada serviço tem um preço.
 E se dentro deste fluxo você utiliza um determinado serviço *x* vezes, o preço a ser pago é o deste serviço multiplicado por *x*.
 Para auxiliar este cálculo, a própria AWS possui uma calculadora de preços, que te dá uma estimativa de quanto você vai pagar.
-
