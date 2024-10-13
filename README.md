@@ -33,3 +33,8 @@ Benefícios do Step Functions:
 
 Para acessá-lo a partir da página inicial, vá em Serviços → Integração de Aplicativos → Step Functions
 Neste momento, você também pode favoritá-lo para ele sempre aparecer no topo da página.
+
+Um projeto de AWS Step Functions se chama **Máquina de Estado**, e vai controlar o fluxo de trabalho (***Workflow***) do sistema.
+Há várias opções de fluxos pré-prontos, todos separados por categorias, e que você pode ou não editar. Mas você também pode, se preferir, fazer um do zero.
+Porém, para quem é iniciante em Step Functions, há um fluxo de trabalho pré-pronto extremamente simples, que ensina a fazer um *Hello World* com apenas alguns cliques e em apenas três minutos.
+
