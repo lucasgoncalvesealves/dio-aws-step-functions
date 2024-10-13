@@ -46,4 +46,4 @@ Porém, para quem é iniciante em Step Functions, há um fluxo de trabalho pré-
 Ao selecionar a sua opção, você é levado ao Workflow Studio, que é a ferramenta de edição de projetos do Step Functions, e se você optou por fazer um *Hello World*, você terá um *tour* guiado. 
 O lado esquerdo do estúdio contém as ações, fluxos e padrões; e o lado direito é uma tela em branco o fluxo de trabalho que você vai montar.
 
-Você deve arrastar as ações, fluxos e padrões do lado esquerdo para o direito da tela. Como se trata de uma ferramenta *low-code*, você não precisa se preocupar em programar cada item: basta que você clique e arraste e o próprio Step Functions escreve o código em ASL (*Amazon State Language*), uma linguagem estruturada baseada em JSON.
+Você deve arrastar as ações, fluxos e padrões do lado esquerdo para o direito da tela. Como se trata de uma ferramenta *low-code*, você não precisa se preocupar em programar cada item: basta que você clique e arraste e o próprio Step Functions escreve o código em ASL (*Amazon State Language*), uma linguagem estruturada baseada em JSON. Cada "caixinha" que você vê na visão de Design é um bloco de código JSON.
